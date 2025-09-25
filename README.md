@@ -16,11 +16,10 @@ A simple and interactive web calculator built using **Streamlit** in Python. Thi
 - 🙌 Thank you message at the bottom  
 
 ---
-##Pictures
+## Pictures
 
-
-![Calculator App Screenshot](https://raw.githubusercontent.com/younessaidi/Calculator-App/refs/heads/main/png1.png)
-
+1. ![Calculator App Screenshot](https://raw.githubusercontent.com/younessaidi/Calculator-App/refs/heads/main/png1.png)
+2. ![Calculator App Screenshot2](https://raw.githubusercontent.com/younessaidi/Calculator-App/refs/heads/main/png2.png)
 ---
 ## 🚀 How to Run
 
