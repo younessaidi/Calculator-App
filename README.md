@@ -16,7 +16,12 @@ A simple and interactive web calculator built using **Streamlit** in Python. Thi
 - 🙌 Thank you message at the bottom  
 
 ---
+##Pictures
 
+
+![Calculator App Screenshot](https://prnt.sc/X7vXrkrYpPVK)
+
+---
 ## 🚀 How to Run
 
 1. Download or clone the repository.  
