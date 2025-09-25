@@ -23,5 +23,5 @@ A simple and interactive web calculator built using **Streamlit** in Python. Thi
 2. Save the file as `calcult.py`.  
 3. Open terminal (or PowerShell) in the folder containing the file.  
 4. Run:  
-   ```bash
+   ```Python
    streamlit run calcult.py
