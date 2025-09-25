@@ -19,7 +19,7 @@ A simple and interactive web calculator built using **Streamlit** in Python. Thi
 ##Pictures
 
 
-![Calculator App Screenshot](https://prnt.sc/X7vXrkrYpPVK)
+![Calculator App Screenshot](https://raw.githubusercontent.com/younessaidi/Calculator-App/refs/heads/main/png1.png)
 
 ---
 ## 🚀 How to Run
